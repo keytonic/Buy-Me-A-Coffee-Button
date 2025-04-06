@@ -2,6 +2,8 @@
 
 I wanted to make the Buy Me a Coffee button more customizable and allow for dynamic control.
 
+Drop the folder "buymeacoffee.svg" on your webserver and link to it like its an image.
+
 
 
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FF0000&coffee=FFA500&color=000000&border=000000&borderwidth=2"><br>

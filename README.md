@@ -2,9 +2,9 @@
 
 I wanted to make the Buy Me a Coffee button more customizable and allow for dynamic control.
 
--Drop the folder "buymeacoffee.svg" on your webserver and link to it like its an image.
+- Drop the folder "buymeacoffee.svg" on your webserver and link to it like its an image.
 
--Append these key-value pair parameters to the URL to customize the button to your preferences:
+- Append these key-value pair parameters to the URL to customize the button to your preferences:
 
     - backgroundcolor
         - Specifies the color of the button using hex color codes.

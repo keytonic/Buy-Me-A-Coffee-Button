@@ -6,7 +6,6 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
 - Append these key-value pair parameters to the URL to customize the button to your preferences:
 
-    - ![](https://img.shields.io/static/v1?label=&message=backgroundcolor&color=green)
     - **backgroundcolor**
         - Specifies the color of the button using hex color codes.
         - Omit the hash tag, defaults to #808080, grey, if not specified.
@@ -17,11 +16,11 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
         - Specifies the color of the fluid in the cup.
         - Omit the hash tag, defaults to #a52a2a, brown, if not specified.
     - **border**
-        - 
-        - 
+        - Specifies the color of the border using "stroke".
+        - Omit the hash tag, defaults to #000000, black, if not specified.
     - **borderwidth**
-        - 
-        - 
+        - Specifies the border width using "stroke-width".
+        - Defaults to 0, no border if not specified.
 - Examples:
 
 ``` https://www.example.com/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2 ```

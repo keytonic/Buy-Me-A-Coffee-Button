@@ -6,7 +6,8 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
 - Append these key-value pair parameters to the URL to customize the button to your preferences:
 
-    - $\color{green}{test}$ **backgroundcolor**
+    - ![](https://img.shields.io/static/v1?label=&message=backgroundcolor&color=green)
+    - **backgroundcolor**
         - Specifies the color of the button using hex color codes.
         - Omit the hash tag, defaults to #808080, grey, if not specified.
     - **color**

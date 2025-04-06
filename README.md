@@ -6,7 +6,7 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
 - Append these key-value pair parameters to the URL to customize the button to your preferences:
 
-    - $${\color{blue}test}$$**backgroundcolor**
+    - $${\color{#2196F3}test}$$**backgroundcolor**
         - Specifies the color of the button using hex color codes.
         - Omit the hash tag, defaults to #808080, grey, if not specified.
     - **color**

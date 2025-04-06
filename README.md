@@ -6,13 +6,24 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
 - Append these key-value pair parameters to the URL to customize the button to your preferences:
 
-    - backgroundcolor
+    - **backgroundcolor**
         - Specifies the color of the button using hex color codes.
         - Omit the hash tag, defaults to #808080, grey, if not supplied.
-    - color
-    - coffee
-    - border
-    - borderwidth
+    - **color**
+        - 
+        - 
+    - **coffee**
+        - 
+        - 
+    - **border**
+        - 
+        - 
+    - **borderwidth**
+        - 
+        - 
+- Examples:
+    - ``` https://www.example.com/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2 ```
+
 
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FF0000&coffee=FFA500&color=000000&border=000000&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FFA500&coffee=FF0000&color=808080&border=808080&borderwidth=2"><br>

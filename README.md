@@ -8,13 +8,13 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
     - **backgroundcolor**
         - Specifies the color of the button using hex color codes.
-        - Omit the hash tag, defaults to #808080, grey, if not supplied.
+        - Omit the hash tag, defaults to #808080, grey, if not specified.
     - **color**
-        - 
-        - 
+        - Specifies the color of the text and cup outline.
+        - Omit the hash tag, defaults to #000000, black, if not specified.
     - **coffee**
-        - 
-        - 
+        - Specifies the color of the fluid in the cup.
+        - Omit the hash tag, defaults to #a52a2a, brown, if not specified.
     - **border**
         - 
         - 
@@ -22,8 +22,8 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
         - 
         - 
 - Examples:
-    - ``` https://www.example.com/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2 ```
 
+``` https://www.example.com/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2 ```
 
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FF0000&coffee=FFA500&color=000000&border=000000&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FFA500&coffee=FF0000&color=808080&border=808080&borderwidth=2"><br>

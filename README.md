@@ -25,7 +25,7 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
 ``` https://www.example.com/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2 ```
 
-You can add transparency by using 8 digit hex codes, i.e., #FFFFFF00 or #00000075, etc.
+You can add transparency by using 8-digit hex codes (e.g., #FFFFFF00 or #00000075).
 
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FF0000&coffee=FFA500&color=000000&border=000000&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FFA500&coffee=FF0000&color=808080&border=808080&borderwidth=2"><br>

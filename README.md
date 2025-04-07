@@ -25,6 +25,8 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 
 ``` https://www.example.com/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2 ```
 
+You can add transparency by using 8 digit hex codes, i.e., #FFFFFF00 or #00000075, etc.
+
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FF0000&coffee=FFA500&color=000000&border=000000&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FFA500&coffee=FF0000&color=808080&border=808080&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FFFF00&coffee=00FF00&color=ffffff&border=ffffff&borderwidth=2"><br>
@@ -34,3 +36,5 @@ I wanted to make the Buy Me a Coffee button more customizable and allow for dyna
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=FFFFFF&coffee=808080&color=ffff00&border=ffff00&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=808080&coffee=FFFFFF&color=ffa500&border=ffa500&borderwidth=2"><br>
 <img width="200px" src="https://keytonic.net/projects/buymeacoffee.svg?backgroundcolor=000000&coffee=a52a2a&color=ff0000&border=ff0000&borderwidth=2"><br>
+
+
